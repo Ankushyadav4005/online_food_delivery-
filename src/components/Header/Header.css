@@ -37,3 +37,33 @@
 
 
     }
+
+    @media(max-width:1050px)
+    {
+        .header
+        {
+            height:38vw
+        }
+        .Header-contents{
+            max-width:45%
+        }
+    }
+
+
+     @media(max-width:750px)
+    {
+    
+        .Header-contents{
+            max-width:55%
+        }
+        
+        .Header-contents p{
+            display: none;
+        }
+
+        .Header-contents button{
+
+        padding:2vw 4vw;
+
+        }
+    }

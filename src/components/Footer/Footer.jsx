@@ -33,8 +33,9 @@ export const Footer = () => {
                     <li>Contact@tomato.com</li>
                 </ul>
 
-            </div>
         </div>
+            </div>
+        <hr />
         <p className="footer-copyright">Copyright 2024 c Tomato.com-All Right reserved.</p>
     </div>
   )

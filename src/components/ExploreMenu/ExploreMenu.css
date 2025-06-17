@@ -61,4 +61,10 @@ columns: #808080;
     padding: 2px;
 }
 
- 
+ @media(max-width:1050px)
+ {
+    .Explore-menu-text{
+        max-width:100%;
+        font-size:14px;
+    }
+ }
